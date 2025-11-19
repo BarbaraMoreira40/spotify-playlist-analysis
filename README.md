@@ -28,6 +28,7 @@ CLIENT_SECRET=your_spotify_client_secret
 Add your playlist ID in analysis_script.py (or use test_spotify.py to test connection).
 
 
+
 <h2 id="colab">🤝 Collaborators</h2>
 
 
@@ -46,5 +47,7 @@ Add your playlist ID in analysis_script.py (or use test_spotify.py to test conne
 </table>
 
 📄 License
-
 This project is licensed under the MIT License.
+
+
+
