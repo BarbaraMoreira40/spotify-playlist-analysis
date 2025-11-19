@@ -1,0 +1,6 @@
+# Ignorar o arquivo de credenciais
+.env
+
+# Ignorar pastas de cache
+__pycache__
+.cache
