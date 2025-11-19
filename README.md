@@ -29,22 +29,6 @@ Add your playlist ID in analysis_script.py (or use test_spotify.py to test conne
 
 
 
-<h2 id="colab">🤝 Collaborators</h2>
-
-
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://github.com/user-attachments/assets/8671fac6-0dbc-49ee-829c-8888ccf8597a" width="80px;" alt="Fernanda Kipper Profile Picture"/><br>
-        <sub>
-          <b>Bárbara Moreira</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 📄 License
 This project is licensed under the MIT License.
