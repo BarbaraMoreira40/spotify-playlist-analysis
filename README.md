@@ -5,6 +5,18 @@ Analyze Spotify playlist metadata (release year vs average duration) using Spoti
 ## Description
 This project fetches tracks from a Spotify playlist and analyzes the relationship between release year and average song duration. It demonstrates authentication with Spotify Web API via Spotipy and basic data analysis/visualization in Python.
 
+## Tech Stack
+
+| Technology | Purpose |
+|-----------|----------|
+| 🐍 Python | Main programming language |
+| 🎧 Spotipy | Spotify Web API client |
+| 📊 Pandas | Data analysis |
+| 📈 Matplotlib | Visualization |
+| 🔐 python-dotenv | Environment variables |
+| 💻 VS Code | Code editor |
+
+
 ## Features
 - Authenticate with Spotify using OAuth
 - Download all tracks from a playlist (handles pagination)
